@@ -1,0 +1,92 @@
+[
+  {
+    "name": "F-e-manas-Hotel",
+    "desc": "Fully fledged Website based on different design patterns. Built using Html, Css, Javascript, Bootstrap.",
+    "image": "hotel",
+    "category": "Website",
+    "links": {
+      "view": "https://firojahmed1313.github.io/-F-e-manas-Hotel.github.io/",
+      "code": "https://github.com/firojahmed1313/-F-e-manas-Hotel.github.io"
+    }
+  },
+  {
+    "name": "E-blog",
+    "desc": "All in one Engineering resources. Built using Html, Css, Javascript, Bootstrap.",
+    "image": "eblog",
+    "category": "Website",
+    "links": {
+      "view": "https://firojahmed1313.github.io/e-blog.github.io/",
+      "code": "https://github.com/firojahmed1313/e-blog.github.io"
+    }
+  },
+  {
+    "name": "GymLife",
+    "desc": "Gym website built using Html, Css, Javascript, Bootstrap. Provides different category .",
+    "image": "gym",
+    "category": "Website",
+    "links": {
+      "view": "https://firojahmed1313.github.io/GymLife.github.io/",
+      "code": "https://github.com/firojahmed1313/GymLife.github.io"
+    }
+  },
+  {
+    "name": "Travel",
+    "desc": "Travel website built using Html, Css. Provides place for enjoy.",
+    "image": "travel",
+    "category": "Website",
+    "links": {
+      "view": "https://firojahmed1313.github.io/Travel.github.io/index.html",
+      "code": "https://github.com/firojahmed1313/Travel.github.io"
+    }
+  },
+  {
+    "name": "Food-delivary",
+    "desc": "Frontend food delivary website built using Html,Css",
+    "image": "food_delivary",
+    "category": "Website",
+    "links": {
+      "view": "https://firojahmed1313.github.io/food-delivary.github.io/",
+      "code": "https://github.com/firojahmed1313/food-delivary.github.io"
+    }
+  },
+  {
+    "name": "Clock",
+    "desc": "Create clock using Html,css,Javascript.",
+    "image": "clock",
+    "category": "Website",
+    "links": {
+      "view": "https://firojahmed1313.github.io/clock.github.io/",
+      "code": "https://github.com/firojahmed1313/clock.github.io"
+    }
+  },
+  {
+    "name": "Car",
+    "desc": "Create Car game using Html,css,Javascript.",
+    "image": "car",
+    "category": "Website",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "To-Do",
+    "desc": "Frontend project  a To-Do app using React js for daily use.",
+    "image": "todoapp",
+    "category": "React",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/firojahmed1313/To-Do"
+    }
+  },
+  {
+    "name": "E-commerce",
+    "desc": "Create a E-commerce website  Using Html css and React js.",
+    "image": "e-commerce",
+    "category": "React",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/firojahmed1313/E-commerce"
+    }
+  }
+]

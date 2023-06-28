@@ -1,0 +1,38 @@
+[
+    {
+        "name": "C++",
+        "image": "./cartificate/c++.jpg"
+    },
+    {
+        "name": "Python",
+        "image": "./cartificate/python.jpg"
+    },
+    {
+        "name": "JavaScript",
+        "image": "./cartificate/javaScript.jpg"
+    },
+    {
+        "name": "HTML5",
+        "image": "./cartificate/htmlcss.jpg"
+    },
+    {
+        "name": "CSS3",
+        "image": "./cartificate/htmlcss.jpg"
+    },
+    {
+        "name": "OOPS",
+        "image": "./cartificate/oops.jpg"
+    },
+    
+    {
+        "name": "Bootstrap",
+        "image": "./cartificate/bootstrap.jpg"
+    },
+    
+    {
+        "name": "Time Managment",
+        "image": "./cartificate/tm.jpg"
+    }
+
+    
+]
