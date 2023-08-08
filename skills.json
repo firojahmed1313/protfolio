@@ -5,7 +5,7 @@
     },
     {
         "name": "React",
-        "icon": "https://icons8.com/icon/NfbyHexzVEDk/react"
+        "icon": "https://img.icons8.com/plasticine/100/react.png"
     },
     {
         "name": "Python",
@@ -21,11 +21,11 @@
     },
     {
         "name": "Sql",
-        "icon": "https://icons8.com/icon/qGUfLiYi1bRN/my-sql"
+        "icon": "https://img.icons8.com/color/48/my-sql.png"
     },
     {
         "name": "visual-studio-code",
-        "icon": "https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"
+        "icon": "https://img.icons8.com/color/48/visual-studio-code-2019.png"
     },
     {
         "name": "HTML5",
@@ -41,15 +41,15 @@
     },
     {
         "name": "Numpy",
-        "icon": "https://icons8.com/icon/aR9CXyMagKIS/numpy"
+        "icon": "https://img.icons8.com/color/48/numpy.png"
     },
     {
         "name": "Pandas",
-        "icon": "https://icons8.com/icon/xSkewUSqtErH/pandas"
+        "icon": "https://img.icons8.com/color/48/pandas.png"
     },
     {
         "name": "Redux",
-        "icon": "https://icons8.com/icon/A6r5yddU9uA0/redux"
+        "icon": "https://img.icons8.com/ios-filled/50/redux.png"
     },
     
     {
