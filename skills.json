@@ -4,6 +4,10 @@
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
+        "name": "React",
+        "icon": "https://icons8.com/icon/NfbyHexzVEDk/react"
+    },
+    {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
@@ -16,6 +20,14 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
+        "name": "Sql",
+        "icon": "https://icons8.com/icon/qGUfLiYi1bRN/my-sql"
+    },
+    {
+        "name": "visual-studio-code",
+        "icon": "https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"
+    },
+    {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
@@ -26,6 +38,18 @@
     {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://icons8.com/icon/aR9CXyMagKIS/numpy"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://icons8.com/icon/xSkewUSqtErH/pandas"
+    },
+    {
+        "name": "Redux",
+        "icon": "https://icons8.com/icon/A6r5yddU9uA0/redux"
     },
     
     {
