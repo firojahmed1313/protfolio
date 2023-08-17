@@ -10,6 +10,16 @@
     }
   },
   {
+    "name": "Moviezone",
+    "desc": "Fully fledged Website based on different design patterns. Built using React js ,html , css,bootstrap,Reduxsaga.",
+    "image": "Moviezone",
+    "category": "Website",
+    "links": {
+      "view": "https://moviezonereactapp.netlify.app/",
+      "code": "https://github.com/firojahmed1313/moviezone"
+    }
+  },
+  {
     "name": "To-Do",
     "desc": "Frontend project  a To-Do app using React js for daily use.",
     "image": "todoapp",
