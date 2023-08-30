@@ -16,6 +16,10 @@
         "image": "./cartificate/htmlcss.jpg"
     },
     {
+        "name": "PHP",
+        "image": "./cartificate/PHP_with_MySql.jpg"
+    },
+    {
         "name": "CSS3",
         "image": "./cartificate/htmlcss.jpg"
     },
