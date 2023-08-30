@@ -16,6 +16,14 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/nolan/64/php-logo.png"
+    },
+    {
+        "name": "Wordpress",
+        "icon": "https://img.icons8.com/color/48/wordpress.png"
+    },
+    {
         "name": "Java",
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
