@@ -1,5 +1,9 @@
 [
     {
+        "name": "Internship",
+        "image": "./cartificate/internship.jpg"
+    },
+    {
         "name": "C++",
         "image": "./cartificate/c++.jpg"
     },
@@ -18,6 +22,10 @@
     {
         "name": "PHP",
         "image": "./cartificate/PHP_with_MySql.jpg"
+    },
+    {
+        "name": "Wordpress",
+        "image": "./cartificate/Wordpress.jpg"
     },
     {
         "name": "CSS3",
