@@ -32,6 +32,10 @@
         "icon": "https://img.icons8.com/color/48/my-sql.png"
     },
     {
+        "name": "Nextjs",
+        "icon": "https://img.icons8.com/nolan/64/nextjs.png"
+    },
+    {
         "name": "VScode",
         "icon": "https://img.icons8.com/color/48/visual-studio-code-2019.png"
     },
@@ -57,7 +61,11 @@
     },
     {
         "name": "Redux",
-        "icon": "https://img.icons8.com/ios-filled/48/redux.png"
+        "icon": "https://img.icons8.com/color/48/redux.png"
+    },
+    {
+        "name": "React-native",
+        "icon": "https://img.icons8.com/color/48/react-native.png"
     },
     
     {
