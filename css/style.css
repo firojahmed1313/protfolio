@@ -6,7 +6,9 @@
   /**
      * colors
      */
-
+  .blue{
+    color:rgb(199, 199, 244)
+  }
   /* gradient */
 
   --bg-gradient-onyx: linear-gradient(
