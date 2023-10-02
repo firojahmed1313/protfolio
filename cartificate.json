@@ -12,6 +12,10 @@
         "image": "./cartificate/python.jpg"
     },
     {
+        "name": "ReactJs",
+        "image": "./cartificate/reactjs.jpg"
+    },
+    {
         "name": "JavaScript",
         "image": "./cartificate/javascript.jpg"
     },
