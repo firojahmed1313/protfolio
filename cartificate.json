@@ -20,6 +20,10 @@
         "image": "./cartificate/javascript.jpg"
     },
     {
+        "name": "Sql",
+        "image": "./cartificate/sql.jpg"
+    },
+    {
         "name": "HTML5",
         "image": "./cartificate/htmlcss.jpg"
     },
