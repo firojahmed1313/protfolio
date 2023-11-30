@@ -8,6 +8,26 @@
         "icon": "https://img.icons8.com/plasticine/48/react.png"
     },
     {
+        "name": "Nextjs",
+        "icon": "https://img.icons8.com/nolan/64/nextjs.png"
+    },
+    {
+        "name": "Nodejs",
+        "icon": "https://img.icons8.com/color/48/nodejs.png"
+    },
+    {
+        "name": "Mongodb",
+        "icon": "https://img.icons8.com/nolan/64/mongo-db.png"
+    },
+    {
+        "name": "Tailwind Css",
+        "icon": "https://img.icons8.com/fluency/48/tailwind_css.png"
+    },
+    {
+        "name": "Solidity",
+        "icon": "https://img.icons8.com/color-glass/48/solidity.png"
+    },
+    {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
