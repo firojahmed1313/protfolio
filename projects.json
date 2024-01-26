@@ -1,7 +1,7 @@
 [
   {
     "name": "F-e-manas-Hotel",
-    "desc": "Fully fledged Website based on different design patterns. Built using Html, Css, Javascript, Bootstrap.",
+    "desc": "Fully fledged Website based on different design patterns. Built using HTML, CSS, Javascript, Bootstrap.",
     "image": "hotel",
     "category": "Website",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Moviezone",
-    "desc": "Fully fledged Website based on different design patterns. Built using React js ,html , css,bootstrap,Reduxsaga.",
+    "desc": "Fully fledged Website based on different design patterns. Built using React js, HTML, CSS, bootstrap, Reduxsaga.",
     "image": "Moviezone",
     "category": "Website",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Roj Blog",
-    "desc": "fullend project  a Blog app using React.js,node.js,express,mongodb for daily use.",
+    "desc": "Fullend project  a Blog app using React. js, node.js, express, MongoDB for daily use.",
     "image": "rojblog",
     "category": "React",
     "links": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "E-blog",
-    "desc": "All in one Engineering resources. Built using Html, Css, Javascript, Bootstrap.",
+    "desc": "All in one Engineering resources. Built using HTML, CSS, Javascript, Bootstrap.",
     "image": "eblog",
     "category": "Website",
     "links": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "GymLife",
-    "desc": "Gym website built using Html, Css, Javascript, Bootstrap. Provides different category .",
+    "desc": "Gym website built using HTML, CSS, Javascript, Bootstrap. Provides different category .",
     "image": "gym",
     "category": "Website",
     "links": {
@@ -61,7 +61,7 @@
   },
   {
     "name": "Travel",
-    "desc": "Travel website built using Html, Css. Provides place for enjoy.",
+    "desc": "Travel website built using Html, Css. Provides a place for enjoy.",
     "image": "travel",
     "category": "Website",
     "links": {
@@ -70,8 +70,8 @@
     }
   },
   {
-    "name": "Food-delivary",
-    "desc": "Frontend food delivary website built using Html,Css",
+    "name": "Food-delivery",
+    "desc": "Frontend food delivery website built using Html, Css",
     "image": "food_delivary",
     "category": "Website",
     "links": {
@@ -81,7 +81,7 @@
   },
   {
     "name": "Clock",
-    "desc": "Create clock using Html,css,Javascript.",
+    "desc": "Create clock using HTML, CSS, Javascript.",
     "image": "clock",
     "category": "Website",
     "links": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "Car",
-    "desc": "Create Car game using Html,css,Javascript.",
+    "desc": "Create Car game using HTML, CSS, Javascript.",
     "image": "car",
     "category": "Website",
     "links": {
@@ -101,13 +101,13 @@
   },
   
   {
-    "name": "E-commerce",
-    "desc": "Create a E-commerce website  Using Html css and React js.",
+    "name": "NEXTBAZAR",
+    "desc": "Create an E-commerce website  Using HTML CSS and React JS.",
     "image": "e-commerce",
     "category": "React",
     "links": {
-      "view": "#",
-      "code": "https://github.com/firojahmed1313/E-commerce"
+      "view": "https://nextbazar-firojahmed.vercel.app/product",
+      "code": "https://github.com/firojahmed1313/NEXTBAZAR"
     }
   }
 ]
