@@ -20,6 +20,16 @@
     }
   },
   {
+    "name": "SmartPool",
+    "desc": "Fully fledged Website based on different design patterns. Built using React js, BlogChain.",
+    "image": "SmartPool",
+    "category": "Website",
+    "links": {
+      "view": "https://smartpool-mdfirojahmed.vercel.app/",
+      "code": "https://github.com/firojahmed1313/College-project"
+    }
+  },
+  {
     "name": "Roj Blog",
     "desc": "Fullend project  a Blog app using React. js, node.js, express, MongoDB for daily use.",
     "image": "rojblog",
